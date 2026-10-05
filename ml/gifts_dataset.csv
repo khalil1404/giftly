@@ -1,0 +1,145 @@
+name,price,priceRange,personality,occasion,tags,occasion_anniversaire,occasion_noël,occasion_fête,occasion_eid,occasion_mariage,personality_encoded,priceRange_encoded
+Boussole de randonnée,35,low,aventurier,"anniversaire,noël,fête,eid","outdoor,randonnée,nature",1,1,1,1,0,0,0
+Gourde isotherme 1L,45,low,aventurier,"anniversaire,fête,eid","outdoor,sport,hydratation",1,0,1,1,0,0,0
+Lampe frontale LED,40,low,aventurier,"anniversaire,noël,eid","camping,outdoor,lumière",1,1,0,1,0,0,0
+Sac à dos de randonnée 40L,120,mid,aventurier,"anniversaire,noël,eid","randonnée,voyage,outdoor",1,1,0,1,0,0,1
+Montre GPS outdoor,140,mid,aventurier,"anniversaire,noël,eid","sport,GPS,outdoor",1,1,0,1,0,0,1
+Kit de survie complet,80,mid,aventurier,"anniversaire,fête,eid","survie,outdoor,sécurité",1,0,1,1,0,0,1
+Tente de camping 2 personnes,280,high,aventurier,"anniversaire,noël","camping,outdoor,voyage",1,1,0,0,0,0,2
+GoPro HERO12 Black,380,high,aventurier,"anniversaire,noël,mariage","caméra,action,vidéo",1,1,0,0,1,0,2
+Drone DJI Mini 4 Pro,800,luxury,aventurier,"anniversaire,noël","drone,photo,technologie",1,1,0,0,0,0,3
+Kayak gonflable premium,650,luxury,aventurier,"anniversaire,mariage","water sport,outdoor,aventure",1,0,0,0,1,0,3
+Couteau multifonction Victorinox,45,low,aventurier,"anniversaire,fête,eid","couteau,survie,outdoor",1,0,1,1,0,0,0
+Hamac de camping ultraléger,35,low,aventurier,"anniversaire,fête,eid","hamac,camping,légèreté",1,0,1,1,0,0,0
+Chaussures de randonnée imperméables,160,mid,aventurier,"anniversaire,noël,eid","chaussures,randonnée,imperméable",1,1,0,1,0,0,1
+Veste softshell outdoor,200,high,aventurier,"anniversaire,noël","veste,outdoor,montagne",1,1,0,0,0,0,2
+Vélo électrique tout-terrain,1200,luxury,aventurier,"anniversaire,noël","vélo,électrique,VTT",1,1,0,0,0,0,3
+Stage escalade en salle 5 séances,120,mid,aventurier,"anniversaire,fête,eid","escalade,sport,cours",1,0,1,1,0,0,1
+Carnet Leuchtturm1917,38,low,créatif,"anniversaire,fête,noël,eid","écriture,carnet,art",1,1,1,1,0,1,0
+Set de crayons aquarelle 48 couleurs,42,low,créatif,"anniversaire,noël,eid","dessin,art,couleurs",1,1,0,1,0,1,0
+Kit origami premium,30,low,créatif,"anniversaire,fête,eid","origami,art,papier",1,0,1,1,0,1,0
+Tablette graphique Wacom Intuos,150,mid,créatif,"anniversaire,noël,eid","design,digital,art",1,1,0,1,0,1,1
+Appareil photo instantané Instax Mini 12,130,mid,créatif,"anniversaire,noël,fête,mariage","photo,instax,souvenirs",1,1,1,0,1,1,1
+Cours de poterie en ligne,100,mid,créatif,"anniversaire,fête,eid","poterie,cours,art",1,0,1,1,0,1,1
+Imprimante photo portable Canon,220,high,créatif,"anniversaire,noël,mariage","photo,impression,créativité",1,1,0,0,1,1,2
+Machine Cricut Explore Air 2,350,high,créatif,"anniversaire,noël","DIY,découpe,créativité",1,1,0,0,0,1,2
+iPad Pro 11 pouces + Apple Pencil,1200,luxury,créatif,"anniversaire,noël,mariage","iPad,digital,art",1,1,0,0,1,1,3
+Cours MasterClass annuel,500,luxury,créatif,"anniversaire,noël,eid","cours,apprentissage,créativité",1,1,0,1,0,1,3
+Set de peinture acrylique professionnelle,48,low,créatif,"anniversaire,noël,eid","peinture,art,acrylique",1,1,0,1,0,1,0
+Abonnement Skillshare 1 an,100,mid,créatif,"anniversaire,fête,eid","cours,créativité,design",1,0,1,1,0,1,1
+Kit calligraphie moderne,32,low,créatif,"anniversaire,fête,eid,mariage","calligraphie,écriture,art",1,0,1,1,1,1,0
+Imprimante 3D Bambu Lab A1 Mini,400,luxury,créatif,"anniversaire,noël","impression 3D,technologie,DIY",1,1,0,0,0,1,3
+Cours de broderie moderne,55,mid,créatif,"anniversaire,fête,eid","broderie,couture,art",1,0,1,1,0,1,1
+Ukulélé soprano + cours débutant,75,mid,créatif,"anniversaire,fête,eid","musique,ukulélé,instrument",1,0,1,1,0,1,1
+Bougie parfumée Yankee Candle,35,low,cosy,"anniversaire,fête,noël,eid","bougie,relaxation,maison",1,1,1,1,0,2,0
+Plaid sherpa doux,45,low,cosy,"anniversaire,noël,fête,eid","plaid,confort,maison",1,1,1,1,0,2,0
+Tisanes du monde coffret,28,low,cosy,"anniversaire,fête,noël,eid","thé,tisane,relaxation",1,1,1,1,0,2,0
+Diffuseur d'huiles essentielles,75,mid,cosy,"anniversaire,fête,eid","aromathérapie,relaxation,maison",1,0,1,1,0,2,1
+Machine à café à capsules,120,mid,cosy,"anniversaire,noël,mariage","café,machine,maison",1,1,0,0,1,2,1
+Kit spa maison Lush,90,mid,cosy,"anniversaire,fête,noël,eid","spa,bain,relaxation",1,1,1,1,0,2,1
+Couverture chauffante électrique,180,high,cosy,"anniversaire,noël","chauffage,confort,maison",1,1,0,0,0,2,2
+Hamac de jardin avec support,250,high,cosy,"anniversaire,fête,mariage","jardin,repos,extérieur",1,0,1,0,1,2,2
+Matelas à mémoire de forme premium,900,luxury,cosy,"anniversaire,mariage","sommeil,confort,maison",1,0,0,0,1,2,3
+Spa balnéo gonflable Lay-Z-Spa,700,luxury,cosy,"anniversaire,noël,mariage","jacuzzi,spa,relaxation",1,1,0,0,1,2,3
+Coffret bain aux sels de la mer Morte,32,low,cosy,"anniversaire,fête,noël,eid","bain,soin,relaxation",1,1,1,1,0,2,0
+Lampe de sel de l'Himalaya,38,low,cosy,"anniversaire,fête,noël,eid","lampe,décoration,ambiance",1,1,1,1,0,2,0
+Robot aspirateur Roomba,280,high,cosy,"anniversaire,noël,mariage","aspirateur,robot,maison",1,1,0,0,1,2,2
+Cafetière French Press premium,55,mid,cosy,"anniversaire,fête,eid","café,french press,maison",1,0,1,1,0,2,1
+Projecteur cinéma maison mini,230,high,cosy,"anniversaire,noël","projecteur,cinéma,maison",1,1,0,0,0,2,2
+Abonnement Netflix + Disney+ 6 mois,80,mid,cosy,"anniversaire,fête,noël,eid","streaming,films,séries",1,1,1,1,0,2,1
+Coffret 3 romans Prix Nobel,40,low,intellectuel,"anniversaire,fête,noël,eid","livre,littérature,culture",1,1,1,1,0,3,0
+Abonnement Audible 3 mois,35,low,intellectuel,"anniversaire,fête,eid","audiobook,lecture,apprentissage",1,0,1,1,0,3,0
+Jeu d'échecs en bois,48,low,intellectuel,"anniversaire,noël,fête,eid","échecs,stratégie,jeu",1,1,1,1,0,3,0
+Abonnement Brilliant.org 1 an,100,mid,intellectuel,"anniversaire,fête,eid","apprentissage,science,maths",1,0,1,1,0,3,1
+Télescope astronomique débutant,130,mid,intellectuel,"anniversaire,noël,eid","astronomie,science,telescope",1,1,0,1,0,3,1
+Puzzle 3D architecture mondiale,60,mid,intellectuel,"anniversaire,noël,fête,eid","puzzle,architecture,3D",1,1,1,1,0,3,1
+Liseuse Kindle Paperwhite,200,high,intellectuel,"anniversaire,noël,eid","liseuse,lecture,kindle",1,1,0,1,0,3,2
+Microscope numérique USB,180,high,intellectuel,"anniversaire,noël","microscope,science,nature",1,1,0,0,0,3,2
+Encyclopédie Universalis complète,800,luxury,intellectuel,"anniversaire,noël","encyclopédie,culture,référence",1,1,0,0,0,3,3
+Abonnement MasterClass + Coursera 1 an,600,luxury,intellectuel,"anniversaire,fête,eid","cours,apprentissage,premium",1,0,1,1,0,3,3
+Jeu de Go en bambou,45,low,intellectuel,"anniversaire,fête,eid","go,stratégie,jeu",1,0,1,1,0,3,0
+Abonnement The Economist 6 mois,90,mid,intellectuel,"anniversaire,fête,eid","actualité,économie,presse",1,0,1,1,0,3,1
+Carte du ciel personnalisée,55,mid,intellectuel,"anniversaire,mariage,eid","astronomie,personnalisé,art",1,0,0,1,1,3,1
+Abonnement Duolingo Super 1 an,80,mid,intellectuel,"anniversaire,fête,eid","langue,apprentissage,éducation",1,0,1,1,0,3,1
+Montre mécanique automatique,350,high,intellectuel,"anniversaire,noël,eid","montre,mécanique,précision",1,1,0,1,0,3,2
+Globe terrestre lumineux interactif,180,high,intellectuel,"anniversaire,noël,eid","globe,géographie,éducation",1,1,0,1,0,3,2
+Jeu de société Catan,45,low,social,"anniversaire,noël,fête,eid","jeu de société,famille,stratégie",1,1,1,1,0,4,0
+Cards Against Humanity,30,low,social,"anniversaire,fête","jeu,soirée,humour",1,0,1,0,0,4,0
+Kit cocktails maison,40,low,social,"anniversaire,fête,noël,mariage","cocktail,soirée,bar",1,1,1,0,1,4,0
+Appareil à raclette 8 personnes,85,mid,social,"anniversaire,noël,fête,eid","raclette,repas,convivial",1,1,1,1,0,4,1
+Karaoké Bluetooth portable,90,mid,social,"anniversaire,fête,mariage","karaoké,musique,soirée",1,0,1,0,1,4,1
+Polaroid Now+ avec film,140,mid,social,"anniversaire,fête,noël,mariage","photo,polaroid,souvenirs",1,1,1,0,1,4,1
+Billard de salon compact,350,high,social,"anniversaire,noël,mariage","billard,jeu,salon",1,1,0,0,1,4,2
+Enceinte JBL PartyBox 310,380,high,social,"anniversaire,fête,mariage","enceinte,musique,soirée",1,0,1,0,1,4,2
+Table de ping-pong pliable,600,luxury,social,"anniversaire,noël,mariage","ping-pong,sport,jeu",1,1,0,0,1,4,3
+Console PS5 + jeux,750,luxury,social,"anniversaire,noël,eid","PS5,gaming,console",1,1,0,1,0,4,3
+Jeu de Uno édition collector,25,low,social,"anniversaire,fête,eid","uno,cartes,famille",1,0,1,1,0,4,0
+Set de fondue au chocolat,45,low,social,"anniversaire,fête,noël,eid","fondue,chocolat,convivial",1,1,1,1,0,4,0
+Appareil à churros électrique,35,low,social,"anniversaire,fête,eid","churros,cuisine,convivial",1,0,1,1,0,4,0
+Appareil à crêpes professionnel,65,mid,social,"anniversaire,fête,noël,eid","crêpe,cuisine,convivial",1,1,1,1,0,4,1
+Tente de jardin événementielle,320,high,social,"anniversaire,fête,mariage","tente,jardin,fête",1,0,1,0,1,4,2
+Coffret jeux de soirée adultes,75,mid,social,"anniversaire,fête,noël,eid","jeux,soirée,convivial",1,1,1,1,0,4,1
+Tapis de yoga premium,42,low,wellness,"anniversaire,fête,noël,eid","yoga,sport,bien-être",1,1,1,1,0,5,0
+Coffret huiles essentielles bio,35,low,wellness,"anniversaire,fête,noël,eid","huiles,aromathérapie,bien-être",1,1,1,1,0,5,0
+Journal de gratitude,25,low,wellness,"anniversaire,fête,eid","journal,bien-être,mindfulness",1,0,1,1,0,5,0
+Abonnement Calm Premium 1 an,70,mid,wellness,"anniversaire,fête,eid","méditation,sommeil,bien-être",1,0,1,1,0,5,1
+Blender Nutribullet Pro,110,mid,wellness,"anniversaire,noël,mariage","smoothie,nutrition,santé",1,1,0,0,1,5,1
+Kit de massage shiatsu,95,mid,wellness,"anniversaire,fête,noël,eid","massage,relaxation,bien-être",1,1,1,1,0,5,1
+Theragun Prime,320,high,wellness,"anniversaire,noël","massage,récupération,sport",1,1,0,0,0,5,2
+Montre connectée santé Fitbit Sense 2,280,high,wellness,"anniversaire,noël,eid","montre,santé,sport",1,1,0,1,0,5,2
+Vélo d'appartement connecté,900,luxury,wellness,"anniversaire,noël,mariage","vélo,sport,fitness",1,1,0,0,1,5,3
+Séance spa & hammam premium,500,luxury,wellness,"anniversaire,fête,eid,mariage","spa,hammam,luxe",1,0,1,1,1,5,3
+Bande de résistance fitness set,22,low,wellness,"anniversaire,fête,eid","fitness,sport,élastique",1,0,1,1,0,5,0
+Aromathérapie diffuseur + 6 huiles,48,low,wellness,"anniversaire,fête,noël,eid","aromathérapie,diffuseur,huiles",1,1,1,1,0,5,0
+Abonnement salle de sport 3 mois,120,mid,wellness,"anniversaire,fête,eid","sport,gym,fitness",1,0,1,1,0,5,1
+Appareil de luminothérapie,75,mid,wellness,"anniversaire,noël","luminothérapie,bien-être,énergie",1,1,0,0,0,5,1
+Sauna infrarouge 1 personne,350,high,wellness,"anniversaire,noël","sauna,infrarouge,détox",1,1,0,0,0,5,2
+Coach nutrition en ligne 3 mois,200,high,wellness,"anniversaire,fête,eid","nutrition,coaching,santé",1,0,1,1,0,5,2
+Manette Xbox Series sans fil,65,low,gamer,"anniversaire,noël,fête,eid","manette,xbox,gaming",1,1,1,1,0,6,0
+Carte cadeau Steam 50€,55,low,gamer,"anniversaire,fête,noël,eid","steam,jeux PC,carte cadeau",1,1,1,1,0,6,0
+Tapis de souris XXL gaming,30,low,gamer,"anniversaire,fête,eid","souris,gaming,setup",1,0,1,1,0,6,0
+Casque gaming HyperX Cloud II,100,mid,gamer,"anniversaire,noël,eid","casque,gaming,audio",1,1,0,1,0,6,1
+Clavier mécanique gaming RGB,120,mid,gamer,"anniversaire,noël,eid","clavier,mécanique,gaming",1,1,0,1,0,6,1
+Abonnement Xbox Game Pass Ultimate 6 mois,80,mid,gamer,"anniversaire,fête,eid","xbox,game pass,abonnement",1,0,1,1,0,6,1
+Écran gaming 144Hz 27 pouces,300,high,gamer,"anniversaire,noël","écran,gaming,144hz",1,1,0,0,0,6,2
+Chaise gaming ergonomique,350,high,gamer,"anniversaire,noël","chaise,gaming,ergonomie",1,1,0,0,0,6,2
+Nintendo Switch OLED + jeux,450,luxury,gamer,"anniversaire,noël,eid","nintendo,switch,portable",1,1,0,1,0,6,3
+PC Gaming assemblé,1500,luxury,gamer,"anniversaire,noël","PC,gaming,RTX",1,1,0,0,0,6,3
+Figurine collector gaming,45,low,gamer,"anniversaire,noël,eid","figurine,collector,gaming",1,1,0,1,0,6,0
+Lampe LED gaming RGB bureau,28,low,gamer,"anniversaire,fête,eid","LED,RGB,décoration",1,0,1,1,0,6,0
+Souris gaming sans fil Logitech G305,55,low,gamer,"anniversaire,fête,eid","souris,gaming,logitech",1,0,1,1,0,6,0
+Webcam streaming 4K,150,mid,gamer,"anniversaire,noël,eid","webcam,streaming,4K",1,1,0,1,0,6,1
+Carte graphique RTX 4070,700,luxury,gamer,"anniversaire,noël","GPU,RTX,PC",1,1,0,0,0,6,3
+Capture card Elgato HD60 X,160,mid,gamer,"anniversaire,noël","capture,streaming,elgato",1,1,0,0,0,6,1
+Livre de cuisine Ottolenghi,35,low,foodie,"anniversaire,noël,fête,eid","livre,cuisine,recettes",1,1,1,1,0,7,0
+Coffret épices du monde,40,low,foodie,"anniversaire,fête,noël,eid","épices,cuisine,saveurs",1,1,1,1,0,7,0
+Kit raviolis maison,28,low,foodie,"anniversaire,fête,eid","pâtes,cuisine,DIY",1,0,1,1,0,7,0
+Machine à pâtes KitchenAid,80,mid,foodie,"anniversaire,noël,mariage","pâtes,kitchenaid,cuisine",1,1,0,0,1,7,1
+Cours de cuisine en ligne Gordon Ramsay,90,mid,foodie,"anniversaire,fête,eid","cours,chef,cuisine",1,0,1,1,0,7,1
+Coffret dégustation fromages affinés,75,mid,foodie,"anniversaire,fête,noël,mariage","fromage,dégustation,gastronomie",1,1,1,0,1,7,1
+Couteaux japonais Shun Classic set,280,high,foodie,"anniversaire,noël,mariage","couteau,japonais,cuisine",1,1,0,0,1,7,2
+Robot pâtissier KitchenAid Artisan,380,high,foodie,"anniversaire,noël,mariage","pâtisserie,kitchenaid,robot",1,1,0,0,1,7,2
+Robot cuiseur Thermomix TM6,1300,luxury,foodie,"anniversaire,noël,mariage","robot,cuiseur,thermomix",1,1,0,0,1,7,3
+Expérience dîner gastronomique étoilé,500,luxury,foodie,"anniversaire,fête,mariage","restaurant,gastronomie,luxe",1,0,1,0,1,7,3
+Cave à vin électrique 46 bouteilles,450,luxury,foodie,"anniversaire,noël,mariage","vin,cave,gastronomie",1,1,0,0,1,7,3
+Coffret chocolats artisanaux,45,low,foodie,"anniversaire,fête,noël,eid","chocolat,artisanal,dégustation",1,1,1,1,0,7,0
+Cours de sushi à domicile,65,mid,foodie,"anniversaire,fête,eid","sushi,cours,japonais",1,0,1,1,0,7,1
+Machine à glace italienne,95,mid,foodie,"anniversaire,fête,noël","glace,gelato,machine",1,1,1,0,0,7,1
+Coffret huiles d'olive premium,38,low,foodie,"anniversaire,fête,eid","huile,olive,gastronomie",1,0,1,1,0,7,0
+Plancha électrique de table,120,mid,foodie,"anniversaire,noël,mariage","plancha,cuisine,convivial",1,1,0,0,1,7,1
+Foulard en soie,45,low,fashionista,"anniversaire,fête,noël,eid","foulard,soie,mode",1,1,1,1,0,8,0
+Trousse de maquillage organiseur,30,low,fashionista,"anniversaire,fête,eid","maquillage,organiseur,beauté",1,0,1,1,0,8,0
+Coffret parfum miniatures Sephora,48,low,fashionista,"anniversaire,fête,noël,eid","parfum,beauté,miniature",1,1,1,1,0,8,0
+Lunettes de soleil Ray-Ban Wayfarer,160,mid,fashionista,"anniversaire,fête,eid","lunettes,ray-ban,mode",1,0,1,1,0,8,1
+Sac à main canvas Tod's,140,mid,fashionista,"anniversaire,noël,mariage","sac,canvas,mode",1,1,0,0,1,8,1
+Abonnement Vogue Arabia 1 an,60,mid,fashionista,"anniversaire,fête,eid","magazine,mode,vogue",1,0,1,1,0,8,1
+Montre femme Michael Kors,250,high,fashionista,"anniversaire,noël,mariage,eid","montre,michael kors,bijoux",1,1,0,1,1,8,2
+Bijou personnalisé or 18 carats,300,high,fashionista,"anniversaire,fête,noël,eid,mariage","bijou,or,personnalisé",1,1,1,1,1,8,2
+Sac Longchamp Le Pliage,450,luxury,fashionista,"anniversaire,noël,mariage","longchamp,sac,luxe",1,1,0,0,1,8,3
+Parfum Chanel N°5 Eau de Parfum,600,luxury,fashionista,"anniversaire,noël,fête,eid,mariage","parfum,chanel,luxe",1,1,1,1,1,8,3
+Pochette de soirée clutch,42,low,fashionista,"anniversaire,fête,eid,mariage","pochette,soirée,mode",1,0,1,1,1,8,0
+Coffret soin visage Kiehl's,85,mid,fashionista,"anniversaire,fête,noël,eid","soin,visage,beauté",1,1,1,1,0,8,1
+Séance relooking professionnel,180,high,fashionista,"anniversaire,fête,mariage","relooking,style,conseil",1,0,1,0,1,8,2
+Ceinture en cuir véritable,38,low,fashionista,"anniversaire,fête,eid","ceinture,cuir,accessoire",1,0,1,1,0,8,0
+Abonnement box beauté Birchbox 6 mois,90,mid,fashionista,"anniversaire,fête,noël,eid","beauté,box,cosmétiques",1,1,1,1,0,8,1
+Montre homme Tag Heuer Formula 1,1500,luxury,fashionista,"anniversaire,noël,mariage","montre,tag heuer,luxe",1,1,0,0,1,8,3
