@@ -9,8 +9,10 @@ Academic project, ISET Zaghouan, 2025-2026. Team of two.
 - Registration and login with JWT authentication
 - 4-step quiz (recipient, personality, occasion, budget) with gift recommendations
 - ML recommendation engine: KNN and Random Forest (scikit-learn), about 85% cross-validation accuracy
+- Catalogue of 144 curated gifts
+- Gift assistant chatbot
 - User dashboard: wishlists, history, recipients, budget tracker, reminders
-- Community feed with likes and comments
+- Community feed (inspiration) with likes and comments
 - Admin routes
 
 ## Tech stack
@@ -19,7 +21,7 @@ Academic project, ISET Zaghouan, 2025-2026. Team of two.
 |------|--------------|
 | Frontend | React, Vite |
 | Backend | Node.js, Express, MongoDB (Mongoose), JWT |
-| ML service | Python, Flask, scikit-learn |
+| ML service | Python, Flask, scikit-learn, pandas |
 
 ## Project structure
 
@@ -31,7 +33,7 @@ ml/         Flask ML service (port 5001)
 
 ## Installation
 
-Requirements: Node.js, Python 3, MongoDB running locally.
+Requirements: Node.js, Python 3.11 or newer, MongoDB running locally.
 
 1. Backend:
 ```
@@ -46,6 +48,7 @@ Requirements: Node.js, Python 3, MongoDB running locally.
    pip install -r requirements.txt
    python app.py
 ```
+   To retrain the model: `python train.py`
 3. Frontend:
 ```
    cd frontend
@@ -56,10 +59,26 @@ Requirements: Node.js, Python 3, MongoDB running locally.
 
 ## Screenshots
 
+### Home
 ![Home](screenshots/home.png)
+
+### Gift catalogue
+![Gift catalogue](screenshots/gifts.png)
+
+### Quiz
 ![Quiz](screenshots/quiz.png)
-![Results](screenshots/results.png)
-![Dashboard](screenshots/dashboard.png)
+
+### Results and assistant
+![Results and assistant](screenshots/results.png)
+
+### Wishlists
+![Wishlists](screenshots/Wishlists.png)
+
+### Reminders
+![Reminders](screenshots/reminders.png)
+
+### Inspiration feed
+![Inspiration](screenshots/Inspiration.png)
 
 ## Authors
 
